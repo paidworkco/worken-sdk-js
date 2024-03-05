@@ -1,15 +1,12 @@
-# worken-sdk
-
-<br />
 <p align="center">
   <img src="https://zrcdn.net/images/logos/paidwork/paidwork-logo-header-mobile-bitlabs.png" alt="Paidwork" />
 </p>
 
 <h3 align="center">
-  Make and receive secure transactions with Worken
+  Send & Receive secure Blockchain transactions with Worken
 </h3>
 <p align="center">
-  <a href="https://www.paidwork.com/?utm_source=github.com&utm_medium=referral&utm_campaign=readme">🚀 Over 15M+ Users using WORK!</a>
+  🚀 Over 15M+ Users using <a href="https://www.paidwork.com/?utm_source=github.com&utm_medium=referral&utm_campaign=readme">WORK!</a>
 </p>
 
 <p align="center">
@@ -32,7 +29,7 @@
     </a>
 </p>
 
-SDK library providing access to make easy and secure transactions with Worken
+SDK library providing access to make easy and secure Blockchain transactions with Worken
 
 Feel free to try out our provided Postman collection. Simply click the button below to fork the collection and start testing.<br>
 
